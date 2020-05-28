@@ -1,0 +1,11 @@
+{
+  "name": "life-simulation-by-livshits",
+  "version": "1.0.0",
+  "description": "A project for learning js",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Livshits",
+  "license": "ISC"
+}
